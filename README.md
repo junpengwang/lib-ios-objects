@@ -1,4 +1,5 @@
-WilddogObjects是一个回调，用几个类配合wilddog实现一个同步的NSDictionary；
+WilddogObjects 是一个基于 Wilddog SDK 开发的一个容器，能够将网络数据  
+同步的ios已有容器中，大大简化了使用 Wilddog SDK 开发的难度。
 
 用Wilddog保持一个同步的Dictionary；
 -------------------------------------------------------------
